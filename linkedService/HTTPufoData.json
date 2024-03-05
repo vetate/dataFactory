@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://raw.githubusercontent.com/vetate/ufo-data/main/ufo-sightings-transformed.csv",
+			"url": "https://raw.githubusercontent.com/vetate/ufo-data/main/ufo.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
