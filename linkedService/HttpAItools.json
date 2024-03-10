@@ -1,0 +1,12 @@
+{
+	"name": "HttpAItools",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/vetate/ai-datasets/main/all_ai_tool.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
