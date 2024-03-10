@@ -1,0 +1,12 @@
+{
+	"name": "HttpSM",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/vetate/ai-datasets/main/socialmediaTime.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
