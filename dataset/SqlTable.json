@@ -7,12 +7,10 @@
 		},
 		"parameters": {
 			"SchemaName": {
-				"type": "string",
-				"defaultValue": "table_schema"
+				"type": "string"
 			},
 			"TableName": {
-				"type": "string",
-				"defaultValue": "table_name"
+				"type": "string"
 			}
 		},
 		"annotations": [],
