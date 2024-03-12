@@ -1,0 +1,12 @@
+{
+	"name": "sqlinputblob",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=moviesdatasa;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEEzMzk1MjRELTQzOTAtNEMyMC1BODE1LURDODBFQjU2MjU0M18wNjZjZDhlMy0wMDc4LTQ4MWEtYjU2Yi0xNmFiMjM1MGIzOTIiDQp9"
+		}
+	}
+}
